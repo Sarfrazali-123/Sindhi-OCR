@@ -25,10 +25,5 @@ This project is an **Optical Character Recognition (OCR) system for Sindhi**, de
 4. Evaluated accuracy on Sindhi text.
 
 ## 📊 Results
-- Improved accuracy for Sindhi OCR
-- Successfully recognizes Sindhi characters and words
+![Alt Text](https://github.com/Sarfrazali-123/Sindhi-OCR/blob/90d644b92896eda0e59f6e3bf994739422f4da6d/testt.ipynb)
 
-## 📖 Usage
-1. Install Tesseract 5:
-   ```bash
-   sudo apt install tesseract-ocr
