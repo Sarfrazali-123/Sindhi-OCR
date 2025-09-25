@@ -25,5 +25,6 @@ This project is an **Optical Character Recognition (OCR) system for Sindhi**, de
 4. Evaluated accuracy on Sindhi text.
 
 ## 📊 Results
-![Alt Text](https://github.com/Sarfrazali-123/Sindhi-OCR/blob/90d644b92896eda0e59f6e3bf994739422f4da6d/testt.ipynb)
+![Alt Text](https://github.com/Sarfrazali-123/Sindhi-OCR/blob/76bc226aa55e1a0186d8a31b4b387171591705ed/demo.PNG)
+
 
